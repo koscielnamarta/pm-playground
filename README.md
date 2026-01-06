@@ -12,6 +12,7 @@ It’s a **product thinking showcase**.
 - **artifacts/** — sample PM documents (PRD, discovery, roadmap)
 - **mini-products/** — product case studies & PoCs
 - **mini-products/** — PoCs & case studies (scaffolded from a reusable template)
+- **learning-log/** — short notes on what I’m learning while building products
 
 ---
 
