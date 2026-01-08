@@ -7,7 +7,8 @@ An AI-native tarot companion that helps users interpret real, physical tarot spr
 Most tarot apps provide static meanings card-by-card. This product focuses on interpreting the *spread as a whole*, grounded in the user’s question and chosen layout.
 
 ## Status
-Idea / In progress / Paused / Done
+🌱 Discovery
 
 ## Last update
 2026-01-07
+
