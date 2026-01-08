@@ -1,5 +1,8 @@
 # Thru-Hiking App — Status Update
 
+## Last update
+📆 2026-01-08
+
 ## Current status
 ⏸️ Parked (PoC completed)
 
