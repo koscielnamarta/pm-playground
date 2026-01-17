@@ -1,6 +1,6 @@
 # Data Model
 
-_Last updated: 2026-01-07_
+_Last updated: 2026-01-17_
 
 # AI Feasibility & Assumptions — AI Tarot App
 
