@@ -1,6 +1,6 @@
 # Product Brief
 
-_Last updated: 2026-01-13_
+_Last updated: 2026-01-29_
 
 # Core User & Use Cases
 
@@ -40,3 +40,34 @@ User seeks reassurance or perspective during uncertainty.
 ### Use case 5 - Adding variety to usual tarot practice
 User seeks variety in their usual practice
 - Uses the app to browse through different spreads (MVP 6 most popular)
+
+---
+
+# Trust, Safety & Ethical Framing
+
+## What this app is
+- A reflective tool
+- A support for intuition and self-inquiry
+- A companion for meaning-making
+
+## What this app is NOT
+- A fortune-telling service
+- A decision-making authority
+- A substitute for professional advice
+- A source of absolute truth
+
+## How interpretations are framed
+- Suggestive, not deterministic language
+- Multiple perspectives instead of one answer
+- Emphasis on user reflection and choice
+
+## User safety principles
+- No medical, legal, or financial advice
+- No predictions of concrete future events
+- Clear reminders that interpretations are symbolic
+
+## Emotional responsibility
+- Encourages grounding and self-agency
+- Avoids fear-based or catastrophic language
+- Respects vulnerability during uncertainty
+
