@@ -28,7 +28,7 @@ If the input covers multiple screens or flows, list all proposed story titles fi
 
 ## COMMUNICATION RULES
 
-1. Write in plain B2 English. No filler words.
+1. Write in ASD STE100. No filler words.
 2. Be direct. Engineering teams need clarity.
 3. Use universal UI/UX terms only.
    Correct: "loading indicator", "skeleton screen", "toast", "bottom sheet", "empty state", "inline error", "confirmation dialog".
